@@ -15,6 +15,7 @@ __pycache__/
 
 # ChromaDB data (if persistent)
 chroma_data/
+chroma_db/
 
 # IDE settings
 .vscode/
